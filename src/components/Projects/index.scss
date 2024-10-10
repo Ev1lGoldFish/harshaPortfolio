@@ -139,5 +139,17 @@
       height: 200px;
       max-width: calc(50% - 10px);
     }
+
+    .title {
+      font-size: 14px;
+    }
+
+    .description {
+      font-size: 12px;
+    }
+
+    .content {
+      padding: 5px;
+    }
   }
 }
