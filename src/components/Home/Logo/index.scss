@@ -1,0 +1,43 @@
+.logo-container {
+  animation: bounce 4s ease-in-out;
+  bottom: 0;
+  height: 400px;
+  left: 550px;
+  margin: auto;
+  opacity: 1;
+  position: absolute;
+  right: 25%;
+  top: -30%;
+  width: 400px;
+  z-index: 0;
+
+  img {
+    height: 700px;
+    left: 800px;
+  }
+
+  svg {
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    transform: rotateZ(30deg) !important;
+  }
+
+  .solid-logo {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    opacity: 0;
+    transform: rotateZ(30deg);
+    z-index: 1;
+  }
+}
+
+.svg-container {
+  stroke: #f08a5d;
+  stroke-width: 10px;
+}

@@ -1,0 +1,35 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/authentication.png",
+      "title": "JWT Authentication Full Stack",
+      "description": "Node, Express, React, MongoDB",
+      "url": "https://google.com"
+    },
+    {
+      "cover": "/portfolio/1/bankingAPI.png",
+      "title": "Banking Operations API",
+      "description": "Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, Postman",
+      "url": "https://github.com/Ev1lGoldFish/bankingAPI/"
+    },
+    {
+      "cover": "/portfolio/1/vs.png",
+      "title": "Vs Fighting Game",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://vs-fighting-game.vercel.app/"
+    },
+
+    {
+      "cover": "/portfolio/1/adventureWorks.png",
+      "title": "Adventure Works Analysis",
+      "description": "Azure Data Factory, Azure Databricks, Python, Spark, Power BI",
+      "url": "https://github.com/Ev1lGoldFish/AdventureWorks-de"
+    },
+    {
+      "cover": "/portfolio/1/londonBikes.png",
+      "title": "Public Bike Rides Analysis",
+      "description": "Python, Tableau, Kaggle API",
+      "url": "https://github.com/Ev1lGoldFish/LondonBikeRidesDataAnalysis"
+    }
+  ]
+}
