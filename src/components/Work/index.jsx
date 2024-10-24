@@ -28,7 +28,7 @@ const Work = () => {
       expanded: false,
     },
     {
-      date: 'September 2018 - May, 2022',
+      date: 'September, 2018 - May, 2022',
       title: 'Infosys Ltd.',
       role: 'Associate Consultant',
       description: [
