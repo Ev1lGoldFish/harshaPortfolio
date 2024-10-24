@@ -19,7 +19,7 @@ const Work = () => {
       title: 'Bright Mind Enrichment and Schooling',
       role: 'Full Stack Developer',
       description: [
-        "•	Spearheaded front-end development for the organization's web application utilizing React and Tailwind and achieved a significant increase in user interaction metrics with a boost in daily active users reaching over 2,000.",
+        "Spearheaded front-end development for the organization's web application utilizing React and Tailwind and achieved a significant increase in user interaction metrics with a boost in daily active users reaching over 2,000.",
         'Implemented REST APIs in Java with Spring Boot to provide content to front-end, ensuring seamless data handling and improved server response times for thousands of monthly users.',
         "Developed a secure authentication system utilizing JWT that protected user data for over 10,000 monthly users and ensured compliance with GDPR and CCPA regulations while reinforcing trust in the platform's security measures.",
         'Coordinated the deployment and scaling of the application using Docker and AWS EC2, achieving consistent performance and reliability across multiple production environments.',
